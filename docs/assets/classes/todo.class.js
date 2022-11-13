@@ -1,0 +1,1 @@
+export class Todo{constructor(t){this.tarea=t,this.id=(new Date).getTime(),this.completado=!1,this.creado=new Date}}

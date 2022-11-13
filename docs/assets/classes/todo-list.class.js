@@ -1,0 +1,1 @@
+export class TodoList{constructor(){this.todos=[]}nuevoTodo(o){this.todos.push(o)}eliminarTodo(o){}marcarCompletado(o){}eliminarCompletados(){}}
